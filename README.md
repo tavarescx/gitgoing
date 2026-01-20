@@ -98,7 +98,7 @@ git branch -d <your-branch-name>
 - [GitHub Foundations Certificate ↗](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 
 ## Teste
-teste do readme
+teste do readme - removendo 
 
 
 ## License
