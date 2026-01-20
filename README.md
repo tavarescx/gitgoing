@@ -98,10 +98,6 @@ git branch -d <your-branch-name>
 - [GitHub Foundations Certificate ↗](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
